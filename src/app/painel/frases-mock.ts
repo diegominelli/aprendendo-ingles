@@ -17,8 +17,4 @@ export const FRASES: Frase[] = [
     fraseEng: 'I eat bread',
     frasePtBr: 'Eu como pão',
   },
-  {
-    fraseEng: 'I like to ride a bike',
-    frasePtBr: 'Eu gosto de andar de bicicleta',
-  },
 ];
