@@ -31,9 +31,7 @@ export class PainelComponent implements OnInit, OnDestroy {
     this.atualizaRodada();
   }
 
-  ngOnDestroy(): void {
-    console.log('Componente painel foi destruido');
-  }
+  ngOnDestroy(): void {}
 
   ngOnInit() {}
 
